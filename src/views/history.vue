@@ -37,6 +37,11 @@ import HistoryTable from '@/components/app/HistoryTable'
 import {Pie} from 'vue-chartjs'
 
 export default {
+  metaInfo() {
+    return{
+         title: this.$title('Menu_History')
+    }
+  },
   name: 'history',
   extends: Pie,
   mixins: [paginationMixin],

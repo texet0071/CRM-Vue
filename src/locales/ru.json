@@ -7,6 +7,9 @@
     "Menu_History": "История",
     "Menu_Planning": "Планирование",
     "Menu_NewRecord": "Новая запись",
-    "Menu_Categories": "Категории"
+    "Menu_Categories": "Категории",
+    "Detail-record": "Detail",
+    "Login": "Login",
+    "Register": "Register"
 
 }
